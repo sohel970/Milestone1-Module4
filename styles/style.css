@@ -1,0 +1,40 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(205, 229, 229);
+} */
+nav ul{
+    display: flex;
+    list-style: none;
+   
+}
+li{
+    background-color: azure;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+td, th{
+border: 1px solid white;
+padding: 5px 10px;
+}
+table {
+    border-collapse: collapse;
+    background-color: rgb(51, 50, 50);
+    color: white;
+}
+th,caption{
+    color: rgb(213, 213, 86);
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    color: green;
+}
+.img{ 
+    width: 1000px;
+    height:500px;
+    background-repeat: no-repeat;
+    background-image: url(https://www.dafont.com/img/illustration/m/i/milestone_one.png);
+}
